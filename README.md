@@ -1,5 +1,5 @@
 # Macco365
-Automated security assessment of Microsoft 365 Tenants
+Automated security assessment of Microsoft 365 Tenants 
 
 ## Purpose
 
@@ -159,3 +159,5 @@ Macco365 is a script harness that runs other inspector script modules stored in 
 ## Latah
 
 @Gyarbij
+
+Meaning: Macco: Noun - Somone who minds other people's business for the purpose of gossip (Caribbean Dictionary *vc*)
