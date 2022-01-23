@@ -9,7 +9,7 @@ To gain fast visability into the security state of Microsoft 365 environments fo
 
 Macco365 requires the administrative PowerShell modules for Microsoft Online, Azure AD, Exchange administration, and Sharepoint administration. 
 
-If you do not have these modules installed, you should be able to install them with the following commands in an administrative PowerShell prompt, or by following the instructions at the references below:
+If you do not have these modules installed, you should be able to install them with the following commands in an administrative PowerShell session, or by following the instructions at the references below:
 
 	Install-Module -Name MSOnline
 	Install-Module -Name AzureAD
