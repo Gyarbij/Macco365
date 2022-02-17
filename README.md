@@ -1,7 +1,7 @@
 # Macco365
-Automated security assessment of Microsoft 365 tenants 
+An Automated security assessment of Microsoft 365 tenants 
 
-## Purpose
+## Objective
 
 To gain fast visability into the security state of Microsoft 365 environments for emergency onboardings and audits.
 
