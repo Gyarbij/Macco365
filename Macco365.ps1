@@ -21,10 +21,10 @@
   Password of O365 account.
 
   .INPUTS
-  None. You cannot pipe objects to Macco365.ps1.
+  None. You cannot pipe objects to Macco365.
 
   .OUTPUTS
-  None. Macco365.ps1 does not generate any output.
+  None. Macco365 does not generate any output.
 
   .EXAMPLE
   PS> .\Macco365.ps1
